@@ -1,4 +1,4 @@
-# Desafio logica de programação Módulo 1 B2B Ifood Turma 06
+# Desafio lógica de programação Módulo 1 B2B Ifood Turma 06
 
 Este desafio deve ser feito no hackerank, com acesso via este [link](https://www.hackerrank.com/desafio-de-logica-modulo-1-b2b-t06-dbe-ifood)
 
